@@ -75,6 +75,10 @@ body {
   margin: 20px;
 }
 
+.orange-text {
+  color: #ff0000;
+}
+
 .blue-box {
   color: #223A80;
   border-radius: 5px;
